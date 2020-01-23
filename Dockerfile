@@ -1,1 +1,1 @@
-openjdk-7-jre/Dockerfile
+FROM ubuntu:latest
